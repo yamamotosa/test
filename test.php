@@ -1,4 +1,4 @@
 <?php
 
 echo 'test';
-echo 5678;
+echo 'hoge';
